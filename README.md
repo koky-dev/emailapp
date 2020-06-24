@@ -1,6 +1,6 @@
 # emailapp
 
-A new Flutter application.
+An E-mail application made with Flutter.
 
 ## Getting Started
 
